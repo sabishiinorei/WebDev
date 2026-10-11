@@ -1,6 +1,5 @@
 import random
 
-#мини игра с компьютером
 secret_number = random.randint(1, 100)
 attempts = 0 
 
